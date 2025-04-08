@@ -1,0 +1,11 @@
+{
+  "summary": "Healthcare systems struggle to predict and prepare for sudden patient demand spikes. Social Determinants of Health (SDoH), such as unemployment rates, literacy levels, and eviction trends, are key indicators of future healthcare demand.",
+  "objectives": [
+    "Aggregate real-time SDoH data (unemployment, eviction, school attendance)",
+    "Train ML models to correlate this with future hospital demand",
+    "Predict demand in specific zip codes (e.g., '20% increased ER visits in 6 weeks')",
+    "Provide dashboards for proactive staffing and supply planning",
+    "Ensure HIPAA compliance with anonymized data"
+  ],
+  "bonus": "Integrate community feedback and external data to improve accuracy."
+}
